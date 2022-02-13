@@ -1,0 +1,15 @@
+Via Roma
+4
+Via Napoli
+99
+6
+Via Roma
+18
+Via Napoli
+29
+Via Torino
+87
+7
+Via Ospedale
+56
+3
